@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sl0v3C
-- 👀 I’m interested in AOSP、Hacking、DIY、Hardware ...
+- 👀 I’m interested in AOSP、ChromiumOS、Hacking、DIY、Hardware ...
 - 🌱 I’m currently learning Android In Container、VM、UBports、postmarketOS
 - 📫 How to reach me pyy101727@gmail.com
 
